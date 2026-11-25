@@ -1,6 +1,6 @@
 {
-  "name": "Планы и продажи",
-  "short_name": "Планы и продажи",
+  "name": "Финансы",
+  "short_name": "Финансы",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -10,13 +10,13 @@
   "icons": [
     {
       "src": "./apple-touch-icon.png",
-      "sizes": "569x564",
+      "sizes": "570x564",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "./icon-512.png",
-      "sizes": "569x564",
+      "sizes": "570x564",
       "type": "image/png",
       "purpose": "any"
     }
