@@ -1,0 +1,24 @@
+{
+  "name": "Финансы",
+  "short_name": "Финансы",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10141c",
+  "theme_color": "#10141c",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "570x564",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "570x564",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
